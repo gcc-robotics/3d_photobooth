@@ -1,0 +1,2 @@
+userName: EMAIL@ADDRESS.COM
+passWord: EMAIL_PASSWORD
